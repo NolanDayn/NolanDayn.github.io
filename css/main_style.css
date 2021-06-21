@@ -69,3 +69,9 @@ header{
 .loginForm{
     margin-left: 15px;
 }
+
+
+
+.copyright{
+    display: inline-block;
+}
